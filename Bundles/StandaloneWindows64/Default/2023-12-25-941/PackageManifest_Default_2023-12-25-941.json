@@ -1,0 +1,35 @@
+{
+    "FileVersion": "2.0.0",
+    "EnableAddressable": true,
+    "LocationToLower": false,
+    "IncludeAssetGUID": false,
+    "OutputNameStyle": 1,
+    "BuildPipeline": "BuiltinBuildPipeline",
+    "PackageName": "Default",
+    "PackageVersion": "2023-12-25-941",
+    "AssetList": [
+        {
+            "Address": "StartView",
+            "AssetPath": "Assets/WEngine/AssetBundleRes/View/StartView.prefab",
+            "AssetGUID": "",
+            "AssetTags": [
+                "View"
+            ],
+            "BundleID": 0
+        }
+    ],
+    "BundleList": [
+        {
+            "BundleName": "assets_wengine_assetbundleres_view.bundle",
+            "UnityCRC": 4187354605,
+            "FileHash": "6d7ea89d636f716fd89d9e19afbd67fa",
+            "FileCRC": "f0b01761",
+            "FileSize": 10040,
+            "Encrypted": false,
+            "Tags": [
+                "View"
+            ],
+            "DependIDs": []
+        }
+    ]
+}

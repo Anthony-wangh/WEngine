@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 25aec507b3b72b94797cc719900ff5e5, type: 3}
+  m_Name: WEngineSetting
+  m_EditorClassIdentifier: 
+  AssetLoadSetting:
+    IsLoadFromHost: 0
+    PackageName: DefaultPackage
+    HostUrl: http://192.168.81.70/tools
+    LoacalPath: yoo
+  UISetting:
+    EnableAutocode: 1
+    ComponentRecognitions:
+    - ComponentName: Image
+      Key: _Img
+    - ComponentName: Text
+      Key: _Txt
+    - ComponentName: Button
+      Key: _Btn
+    - ComponentName: Toggle
+      Key: _Tog
+    - ComponentName: RawImage
+      Key: _RImg
+    - ComponentName: Transform
+      Key: _Tf
+    - ComponentName: InputField
+      Key: _Inp
+    - ComponentName: RectTransform
+      Key: _Rtf
+    - ComponentName: Slider
+      Key: _Sld

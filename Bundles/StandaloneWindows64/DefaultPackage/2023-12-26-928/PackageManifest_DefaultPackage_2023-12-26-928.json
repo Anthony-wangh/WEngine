@@ -1,0 +1,52 @@
+{
+    "FileVersion": "2.0.0",
+    "EnableAddressable": true,
+    "LocationToLower": false,
+    "IncludeAssetGUID": false,
+    "OutputNameStyle": 0,
+    "BuildPipeline": "BuiltinBuildPipeline",
+    "PackageName": "DefaultPackage",
+    "PackageVersion": "2023-12-26-928",
+    "AssetList": [
+        {
+            "Address": "View_StartView",
+            "AssetPath": "Assets/WEngine/AssetBundleRes/View/StartView.prefab",
+            "AssetGUID": "",
+            "AssetTags": [
+                "View"
+            ],
+            "BundleID": 0
+        },
+        {
+            "Address": "Model",
+            "AssetPath": "Assets/WEngine/AssetBundleRes/Prefabs/Model.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 1
+        }
+    ],
+    "BundleList": [
+        {
+            "BundleName": "assets_wengine_assetbundleres_view.bundle",
+            "UnityCRC": 1217474200,
+            "FileHash": "7cfcf5e5372b47901a50d89302d86d2e",
+            "FileCRC": "ed13b7f9",
+            "FileSize": 10051,
+            "Encrypted": false,
+            "Tags": [
+                "View"
+            ],
+            "DependIDs": []
+        },
+        {
+            "BundleName": "assets_wengine_assetbundleres_prefabs.bundle",
+            "UnityCRC": 2166077279,
+            "FileHash": "c6b0dff248ca3c16e5c239514186b6c2",
+            "FileCRC": "16e66a00",
+            "FileSize": 5568703,
+            "Encrypted": false,
+            "Tags": [],
+            "DependIDs": []
+        }
+    ]
+}

@@ -1,0 +1,118 @@
+{
+    "Summary": {
+        "YooVersion": "",
+        "UnityVersion": "2021.3.13f1c1",
+        "BuildDate": "2023/12/26 15:28:20",
+        "BuildSeconds": 9,
+        "BuildTarget": 19,
+        "BuildMode": 0,
+        "BuildPipeline": "BuiltinBuildPipeline",
+        "BuildPackageName": "DefaultPackage",
+        "BuildPackageVersion": "2023-12-26-928",
+        "UniqueBundleName": false,
+        "EnableAddressable": true,
+        "LocationToLower": false,
+        "IncludeAssetGUID": false,
+        "IgnoreDefaultType": false,
+        "AutoCollectShaders": false,
+        "EncryptionClassName": "YooAsset.Editor.EncryptionNone",
+        "FileNameStyle": 0,
+        "CompressOption": 2,
+        "DisableWriteTypeTree": false,
+        "IgnoreTypeTreeChanges": true,
+        "AssetFileTotalCount": 19,
+        "MainAssetTotalCount": 2,
+        "AllBundleTotalCount": 2,
+        "AllBundleTotalSize": 5578754,
+        "EncryptedBundleTotalCount": 0,
+        "EncryptedBundleTotalSize": 0
+    },
+    "AssetInfos": [
+        {
+            "Address": "View_StartView",
+            "AssetPath": "Assets/WEngine/AssetBundleRes/View/StartView.prefab",
+            "AssetGUID": "3b9f8f918989d9045a8ef188b3591869",
+            "AssetTags": [
+                "View"
+            ],
+            "MainBundleName": "assets_wengine_assetbundleres_view.bundle",
+            "MainBundleSize": 10051,
+            "DependAssets": []
+        },
+        {
+            "Address": "Model",
+            "AssetPath": "Assets/WEngine/AssetBundleRes/Prefabs/Model.prefab",
+            "AssetGUID": "e1d6aa73bfe9c9d47bb15260e90effc3",
+            "AssetTags": [],
+            "MainBundleName": "assets_wengine_assetbundleres_prefabs.bundle",
+            "MainBundleSize": 5568703,
+            "DependAssets": [
+                "Assets/yuetu/Materials/huatong.mat",
+                "Assets/yuetu/Materials/yifu.mat",
+                "Assets/yuetu/Materials/jinshu.mat",
+                "Assets/yuetu/Texture/tuzi@body_roughness.png",
+                "Assets/yuetu/Materials/weiba.mat",
+                "Assets/yuetu/Materials/xie.mat",
+                "Assets/yuetu/Materials/boli.mat",
+                "Assets/yuetu/Materials/yanjing.mat",
+                "Assets/yuetu/Texture/tuzi@body_01_Bake1_pbr_diffuse 2.png",
+                "Assets/yuetu/Texture/tuzi_Color.png",
+                "Assets/yuetu/Model/FBX/hangsheng_yuetu.fbx",
+                "Assets/yuetu/Texture/972a8e1b8458b38cac26e4693276615.png",
+                "Assets/yuetu/Texture/微信图片_20230407145752.png",
+                "Assets/yuetu/Materials/boli 1.mat",
+                "Assets/yuetu/Texture/tuzi_diffuse.png",
+                "Packages/com.unity.render-pipelines.universal/Shaders/Lit.shader",
+                "Assets/yuetu/Texture/tuzi_normal.png"
+            ]
+        }
+    ],
+    "BundleInfos": [
+        {
+            "BundleName": "assets_wengine_assetbundleres_view.bundle",
+            "FileName": "7cfcf5e5372b47901a50d89302d86d2e.bundle",
+            "FileHash": "7cfcf5e5372b47901a50d89302d86d2e",
+            "FileCRC": "ed13b7f9",
+            "FileSize": 10051,
+            "Encrypted": false,
+            "Tags": [
+                "View"
+            ],
+            "DependBundles": [],
+            "AllBuiltinAssets": [
+                "Assets/WEngine/AssetBundleRes/View/StartView.prefab"
+            ]
+        },
+        {
+            "BundleName": "assets_wengine_assetbundleres_prefabs.bundle",
+            "FileName": "c6b0dff248ca3c16e5c239514186b6c2.bundle",
+            "FileHash": "c6b0dff248ca3c16e5c239514186b6c2",
+            "FileCRC": "16e66a00",
+            "FileSize": 5568703,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "AllBuiltinAssets": [
+                "Assets/WEngine/AssetBundleRes/Prefabs/Model.prefab",
+                "Assets/yuetu/Materials/huatong.mat",
+                "Assets/yuetu/Materials/yifu.mat",
+                "Assets/yuetu/Materials/jinshu.mat",
+                "Assets/yuetu/Texture/tuzi@body_roughness.png",
+                "Assets/yuetu/Materials/weiba.mat",
+                "Assets/yuetu/Materials/xie.mat",
+                "Assets/yuetu/Materials/boli.mat",
+                "Assets/yuetu/Materials/yanjing.mat",
+                "Assets/yuetu/Texture/tuzi@body_01_Bake1_pbr_diffuse 2.png",
+                "Assets/yuetu/Texture/tuzi_Color.png",
+                "Assets/yuetu/Model/FBX/hangsheng_yuetu.fbx",
+                "Assets/yuetu/Texture/972a8e1b8458b38cac26e4693276615.png",
+                "Assets/yuetu/Texture/微信图片_20230407145752.png",
+                "Assets/yuetu/Materials/boli 1.mat",
+                "Assets/yuetu/Texture/tuzi_diffuse.png",
+                "Packages/com.unity.render-pipelines.universal/Shaders/Lit.shader",
+                "Assets/yuetu/Texture/tuzi_normal.png"
+            ]
+        }
+    ],
+    "RedundancyInfos": []
+}

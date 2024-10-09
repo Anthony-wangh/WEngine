@@ -1,0 +1,10 @@
+ManifestFileVersion: 0
+CRC: 852957752
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: assets_wengine_assetbundleres_view.bundle
+      Dependencies: {}
+    Info_1:
+      Name: assets_wengine_assetbundleres_prefabs.bundle
+      Dependencies: {}

@@ -1,0 +1,61 @@
+{
+    "Summary": {
+        "YooVersion": "",
+        "UnityVersion": "2021.3.13f1c1",
+        "BuildDate": "2023/12/25 15:41:30",
+        "BuildSeconds": 5,
+        "BuildTarget": 19,
+        "BuildMode": 0,
+        "BuildPipeline": "BuiltinBuildPipeline",
+        "BuildPackageName": "Default",
+        "BuildPackageVersion": "2023-12-25-941",
+        "UniqueBundleName": false,
+        "EnableAddressable": true,
+        "LocationToLower": false,
+        "IncludeAssetGUID": false,
+        "IgnoreDefaultType": false,
+        "AutoCollectShaders": false,
+        "EncryptionClassName": "YooAsset.Editor.EncryptionNone",
+        "FileNameStyle": 1,
+        "CompressOption": 2,
+        "DisableWriteTypeTree": false,
+        "IgnoreTypeTreeChanges": true,
+        "AssetFileTotalCount": 1,
+        "MainAssetTotalCount": 1,
+        "AllBundleTotalCount": 1,
+        "AllBundleTotalSize": 10040,
+        "EncryptedBundleTotalCount": 0,
+        "EncryptedBundleTotalSize": 0
+    },
+    "AssetInfos": [
+        {
+            "Address": "StartView",
+            "AssetPath": "Assets/WEngine/AssetBundleRes/View/StartView.prefab",
+            "AssetGUID": "3b9f8f918989d9045a8ef188b3591869",
+            "AssetTags": [
+                "View"
+            ],
+            "MainBundleName": "assets_wengine_assetbundleres_view.bundle",
+            "MainBundleSize": 10040,
+            "DependAssets": []
+        }
+    ],
+    "BundleInfos": [
+        {
+            "BundleName": "assets_wengine_assetbundleres_view.bundle",
+            "FileName": "assets_wengine_assetbundleres_view.bundle",
+            "FileHash": "6d7ea89d636f716fd89d9e19afbd67fa",
+            "FileCRC": "f0b01761",
+            "FileSize": 10040,
+            "Encrypted": false,
+            "Tags": [
+                "View"
+            ],
+            "DependBundles": [],
+            "AllBuiltinAssets": [
+                "Assets/WEngine/AssetBundleRes/View/StartView.prefab"
+            ]
+        }
+    ],
+    "RedundancyInfos": []
+}

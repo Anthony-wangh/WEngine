@@ -1,0 +1,85 @@
+trackSelection = true
+fetchPreview = true
+defaultFlags = 0
+keepOpen = false
+queryFolder = "Assets"
+onBoardingDoNotAskAgain = true
+showPackageIndexes = false
+showStatusBar = false
+scopes = {
+	"last_search.B655092D" = "st:测试"
+	"OpenInspectorPreview.B655092D" = "0"
+	"currentGroup.B655092D" = "all"
+	"last_search.B655095F" = "at:w"
+	"OpenInspectorPreview.B655095F" = "0"
+	"currentGroup.B655095F" = "all"
+}
+providers = {
+	at = {
+		active = true
+		priority = 100
+		defaultAction = null
+	}
+	st = {
+		active = true
+		priority = 100
+		defaultAction = null
+	}
+	adb = {
+		active = false
+		priority = 2500
+		defaultAction = null
+	}
+	asset = {
+		active = true
+		priority = 25
+		defaultAction = null
+	}
+	store = {
+		active = true
+		priority = 100
+		defaultAction = null
+	}
+	find = {
+		active = true
+		priority = 25
+		defaultAction = null
+	}
+	log = {
+		active = false
+		priority = 210
+		defaultAction = null
+	}
+	packages = {
+		active = true
+		priority = 90
+		defaultAction = null
+	}
+	performance = {
+		active = false
+		priority = 100
+		defaultAction = null
+	}
+	scene = {
+		active = true
+		priority = 50
+		defaultAction = null
+	}
+}
+objectSelectors = {
+}
+recentSearches = [
+	"at:button"
+	"at:TestAsset"
+	"at:blue_button"
+]
+searchItemFavorites = [
+]
+savedSearchesSortOrder = 0
+showSavedSearchPanel = false
+expandedQueries = [
+]
+queryBuilder = false
+ignoredProperties = "id;name;classname;imagecontentshash"
+helperWidgetCurrentArea = "all"
+disabledIndexers = ""
